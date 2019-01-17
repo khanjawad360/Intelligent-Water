@@ -157,7 +157,7 @@ blockquote
 	padding-right:0;
 	padding-left:0
 }
-.row-eq-height
+-eq-height
 {
 	display:-webkit-box;
 	display:-webkit-flex;
@@ -1469,7 +1469,7 @@ header .navbar-default .navbar-nav>li>a
 }
 header .navbar-default .navbar-nav>li>a:hover,header .navbar-default .navbar-nav>li>a:focus,header .navbar-default .navbar-nav>li.active>a,header .navbar-default .navbar-nav>li.active>a:focus,header .navbar-default .navbar-nav>li.active>a:hover
 {
-	color:#000;
+	color:#ecf0f1;
 	background:0 0;
 	box-shadow:none
 }
